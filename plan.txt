@@ -1,0 +1,8 @@
+# 1.    Read a file and write into file metadata and save file (save data into a separate file for "look up?")
+# 2.    Open a file and get metadata out of the file
+# 2.5   Display the file somehow (GUI STUFF)
+# 3.    Search from multiple files (filtering by metadata)
+
+
+
+# Also work with .mp4 / .gif / .[your preferred image type]
