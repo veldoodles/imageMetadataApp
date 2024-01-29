@@ -5,4 +5,4 @@
 
 
 
-# Also work with .mp4 / .gif / .[your preferred image type]
+# Also work with .mp4 / .gif / .[your preferred image type]-
